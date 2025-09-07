@@ -49,7 +49,7 @@ Currently, I work as an **AI/ML Engineer at Xenara AI**, where I develop and tra
 #### 🗺️ GIS Portfolio: Urban Amenity Accessibility Analysis in Ottawa
 *   An end-to-end spatial analysis project using **ArcGIS Pro** to identify "accessibility deserts" in Ottawa.
 *   Performed buffer and overlay analysis on open-source city data to visualize and interpret service gaps.
-*   **[➡️ View Project on GitHub](https://github.com/Jeeltandel/GIS-Portfolio-Project)**
+*   **[➡️ View Project on GitHub](https://github.com/jeelsgit/Ottawa-Accessibility-Analysis)**
 
 #### 💻 Full-Stack: FlexyGig Gig Worker Platform
 *   Developed key backend features using **Java** and **Python**, optimizing **PostgreSQL** database performance by 20%.
