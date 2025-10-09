@@ -54,4 +54,3 @@ Currently, I work as an **AI/ML Engineer at Xenara AI**, where I develop and tra
 #### 💻 Full-Stack: FlexyGig Gig Worker Platform
 *   Developed key backend features using **Java** and **Python**, optimizing **PostgreSQL** database performance by 20%.
 *   Engineered a secure user authentication system with **OAuth 2.0** for a platform connecting employers with gig workers.
-*   *(Link to your repository for this project if you have one)*
