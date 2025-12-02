@@ -30,7 +30,7 @@ I am a software engineer who specializes in solving "where" problems. I bridge t
 *   **Tech:** Satellite Imagery, AI, Python
 *   **Impact:** Developed a solution to analyze flood risk using remote sensing data.
 
-#### 🏗️ [FlexyGig Platform](https://github.com/jeelsgit/YOUR-RENAMED-JAVA-REPO-LINK)
+#### 🏗️ [FlexyGig Platform]
 *   **Tech:** Java, PostgreSQL, Docker
 *   **Impact:** Optimized database query performance by 20% using indexing and caching strategies.
 
